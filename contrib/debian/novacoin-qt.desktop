@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BitBoSS
+Comment=BitBoSS P2P Cryptocurrency
+Comment[fr]=BitBoSS, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BitBoSS, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/BitBoSS-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/BitBoSS;
+Categories=Office;

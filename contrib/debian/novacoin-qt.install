@@ -1,0 +1,5 @@
+BitBoSS-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/BitBoSS-qt.desktop usr/share/applications
+debian/BitBoSS-qt.protocol usr/share/kde4/services/
